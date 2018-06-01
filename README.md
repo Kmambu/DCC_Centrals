@@ -8,4 +8,4 @@ Our hardware implementation is developped in two versions :
 * An IP module inplementation, using a Microblaze architecture. The Microblaze is a softcore processor (which internal architecture doesn't actually exist, it is only described using HDLs).
 
 # Validity of the project
-Our teacher validated our design at the end of the term
+Our teacher validated our design at the end of the term using a Nexys4DDR FPGA card.
