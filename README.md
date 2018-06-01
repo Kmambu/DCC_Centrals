@@ -6,7 +6,7 @@ The main objective of the project was to devellop a hardware architecture of a D
 
 Our hardware implementation is developped in two versions :
 * A pure hardware description, using VHDL
-* An IP module inplementation, using a Microblaze architecture. The Microblaze is a softcore processor (which internal architecture doesn't actually exist, it is only described using HDLs).
+* An IP module inplementation, using a Microblaze architecture. The Microblaze is a softcore processor e.g. a processor only existing through its Hardware Description and its Intellectual Property (IP). [More information about the Microblaze](https://www.xilinx.com/products/design-tools/microblaze.html)
 
 # Validity of the project
-Our teacher validated our design at the end of the term using a Nexys4DDR FPGA card.
+Our teacher validated our design at the end of the term using a [Digilent Nexys4DDR FPGA card](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/reference-manual).
