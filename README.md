@@ -1,2 +1,11 @@
 # DCC_Centrals
-VHDL description of a generator of DCC packets. Engineered with Vivado
+Developped by Kevin Mambu
+
+# What is DCC_Centrals?
+The main objective of the project was to devellop a hardware architecture of a DCC Packet Generator, which would be able to send encoded DCC commands to model trains.
+Our hardware implementation is developped in two versions :
+* A pure hardware description, using VHDL
+* An IP module inplementation, using a Microblaze architecture. The Microblaze is a softcore processor (which internal architecture doesn't actually exist, it is only described using HDLs).
+
+# Validity of the project
+Our teacher validated our design at the end of the term
